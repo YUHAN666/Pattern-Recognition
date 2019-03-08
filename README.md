@@ -4,6 +4,7 @@ Divided into 2 parts
 The first part is for SPAM email classification, contains Beta-binomial Naive Bayes Classifier, Gaussian Naive Classifier, Logistic Regression Classifier and K-Near Neighbor classifier.
 
 Instrution to run the .m files
+
 1.Please copy these files to your Matlab path
 NOTE: 
 The file spamData.mat contains the training and testing data of the Classifier
